@@ -1,6 +1,5 @@
-# timeseries-cloud
+# Timeseries-Cloud
 #Time series model for resource prediction on cloud computing facilty. 
-
 
 
 # Dataset
@@ -33,6 +32,6 @@ The number of lags in the VAR models was varied and the results were compared to
 identify the best fit for the time series.
 
 # Conclusion:
-Presence of Hurst coefficient of 0.61 indicated mild long-range dependency. Data appears to
+Presence of Hurst coefficient of '0.61' indicated mild long-range dependency. Data appears to
 model itself after a random walk and we would like to argue that this indicates the
 presence of multiplicative relations in it.
